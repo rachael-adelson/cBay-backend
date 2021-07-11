@@ -11,7 +11,7 @@ To install cBay-backend locally, follow instructions in INSTALL.txt.
 Backend deployed on Google VM Instance at http://35.245.220.250/api/
 
 
-CS 3110 Final Project
+CS 3110 Final Project Group Members: 
 Rachael Adelson (rma249), Eric Osband (eo255), Talia Attar (tda25), 
 and Tewodros Mitiku (tmb42).
 
