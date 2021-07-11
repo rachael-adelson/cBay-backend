@@ -4,7 +4,7 @@ An OCaml backend application that powers cBay. See cBay-frontend repository for 
 
 Below you can find the API specification. This API can be used either 
 through Postman for testing or from 
-[cBay-frontend](https://github.coecis.cornell.edu/eo255/cBay-frontend) 
+[cBay-frontend](https://github.com/rachael-adelson/cBay-frontend) 
 terminal application.
 To install cBay-backend locally, follow instructions in INSTALL.txt.
 
