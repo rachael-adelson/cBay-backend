@@ -1,6 +1,6 @@
 # cBay-backend
 
-An OCaml backend application that powers cBay. Please see frontend repository for description of cBay. 
+An OCaml backend application that powers cBay. See cBay-frontend repository for description of cBay. 
 
 Below you can find the API specification. This API can be used either 
 through Postman for testing or from 
