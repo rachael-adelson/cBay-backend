@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "id": 2,
+      "price": 5.0,
+      "name": "apen",
+      "category": "tech",
+      "description": "pen",
+      "seller": "eric",
+      "offers": []
+    }
+  ],
+  "counter": 2
+}

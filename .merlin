@@ -1,0 +1,12 @@
+B _build
+PKG ounit2
+PKG yojson
+PKG str
+PKG unix
+PKG qcheck
+PKG ocamlbuild
+PKG bisect_ppx-ocamlbuild
+PKG ppx_deriving_yojson
+PKG lwt
+PKG cohttp
+PKG cohttp-lwt-unix
