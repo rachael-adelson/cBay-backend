@@ -12,7 +12,7 @@ Backend deployed on Google VM Instance at http://35.245.220.250/api/
 
 
 CS 3110 Final Project
-Eric Osband (eo255), Rachael Adelson (rma249), Talia Attar (tda25), 
+Rachael Adelson (rma249), Eric Osband (eo255), Talia Attar (tda25), 
 and Tewodros Mitiku (tmb42).
 
 
